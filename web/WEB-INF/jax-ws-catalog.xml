@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/SubastaWS/Registrar?wsdl" uri="wsdl/localhost_8080/SubastaWS/Registrar.wsdl"/>
+    <system systemId="http://localhost:8080/SubastaWS/Registrar?xsd=1" uri="wsdl/localhost_8080/SubastaWS/Registrar.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/SubastaWS/Registrar?WSDL" uri="wsdl/localhost_8080/SubastaWS/Registrar.wsdl"/>
+    <system systemId="http://localhost:8080/SubastaWS/Login?WSDL" uri="wsdl/localhost_8080/SubastaWS/Login.wsdl"/>
+    <system systemId="http://localhost:8080/SubastaWS/Login?xsd=1" uri="wsdl/localhost_8080/SubastaWS/Login.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/SubastaWS/Compra?WSDL" uri="wsdl/localhost_8080/SubastaWS/Compra.wsdl"/>
+    <system systemId="http://localhost:8080/SubastaWS/Compra?xsd=1" uri="wsdl/localhost_8080/SubastaWS/Compra.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/SubastaWS/Articulo_Nuevo?WSDL" uri="wsdl/localhost_8080/SubastaWS/Articulo_Nuevo.wsdl"/>
+    <system systemId="http://localhost:8080/SubastaWS/Articulo_Nuevo?xsd=1" uri="wsdl/localhost_8080/SubastaWS/Articulo_Nuevo.xsd_1.xsd"/>
+</catalog>
